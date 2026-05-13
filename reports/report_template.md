@@ -1,5 +1,7 @@
 # Báo Cáo Reliability Ngày 10
 
+**Ho Va Ten:** Thái Tuấn Khang 2A202600289
+
 ## 1. Tổng quan kiến trúc
 
 Mô tả gateway, circuit breaker, fallback chain và các tầng cache.
@@ -128,4 +130,3 @@ Liệt kê 2-3 cải tiến cụ thể bạn sẽ thực hiện:
 
 ---
 
-**Người thực hiện:** Thái Tuấn Khang 2A202600289
